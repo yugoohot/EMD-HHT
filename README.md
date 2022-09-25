@@ -1,7 +1,7 @@
 # EMD-HHT
 #### Empirical Mode Decomposition (EMD) is a method for non-stationary signal processing.
 #### Here, I reproduced Ahmet Mert et al ( https://ieeexplore.ieee.org/document/6811449 ) method.
-#### This code can filter high-frequency and low-frequency noise and retain normal signal.
+#### This code can filter high-frequency and low-frequency noise through hierarchical clustering and retain normal signal.
 #### A classical case is the artifact removal of EEG.
 
 #### 经验模态分解是常用于非平稳信号处理的方法。
